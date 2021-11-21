@@ -80,3 +80,12 @@ h5 {
   position: absolute;
   margin: 0 0 0 10px;
 }
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+small {
+  margin: 20px;
+}
